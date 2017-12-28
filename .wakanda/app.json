@@ -1,0 +1,17 @@
+{
+  "name": "RouterOutlet-A5M5",
+  "components": [
+    {
+      "type": "backend",
+      "template": "wakanda-javascript",
+      "name": "backend",
+      "path": "./backend"
+    },
+        {
+      "type": "web",
+      "template": "angular-cli",
+      "name": "web",
+      "path": "./web"
+    }
+    ]
+}

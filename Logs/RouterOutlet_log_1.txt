@@ -1,0 +1,23 @@
+2017-12-28 15:13:54 [wakanda.supervisor] INFO - solution closed
+2017-12-28 15:13:54 [wakanda] INFO - Opens the solution "D:\Wakanda 2.3\RouterOutlet-v16\app.waSolution" for running
+2017-12-28 15:13:55 [wakanda.RouterOutlet] INFO - Users and groups directory opened
+2017-12-28 15:13:56 [wakanda.RouterOutlet.backend] INFO - Datastore opened
+2017-12-28 15:13:56 [IndexManager] INFO - Index  on DataClass1.index has been deleted 
+2017-12-28 15:13:56 [wakanda.RouterOutlet.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-12-28 15:13:56 [wakanda.RouterOutlet.backend] INFO - "backend" project opened
+2017-12-28 15:13:56 [wakanda.RouterOutlet.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-12-28 15:13:56 [wakanda.RouterOutlet.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-12-28 15:13:56 [wakanda.RouterOutlet] INFO - "RouterOutlet" solution opened
+2017-12-28 15:13:56 [wakanda] INFO - Starts "RouterOutlet" solution
+2017-12-28 15:13:56 [wakanda.RouterOutlet.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-12-28 15:13:56 [wakanda.RouterOutlet.ServerAdmin] INFO - HTTP Server started
+2017-12-28 15:13:56 [wakanda.RouterOutlet.ServerAdmin] INFO - "ServerAdmin" project started
+2017-12-28 15:13:56 [wakanda.RouterOutlet.backend] INFO - HTTP Server started
+2017-12-28 15:13:56 [wakanda.RouterOutlet.backend] INFO - "backend" project started
+2017-12-28 15:13:56 [wakanda.RouterOutlet.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-12-28 15:13:56 [wakanda.RouterOutlet.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-12-28 15:13:56 [wakanda.RouterOutlet.backend] INFO - Executes the bootstrap file(s)
+2017-12-28 15:13:56 [wakanda.RouterOutlet.backend] INFO - Bootstrap file(s) executed
+2017-12-28 15:13:56 [wakanda.RouterOutlet] INFO - "RouterOutlet" solution started
+2017-12-28 15:13:56 [wakanda] INFO - "RouterOutlet" solution has been successfully opened for running (duration: 1611 ms)
+2017-12-28 15:13:56 [wakanda.supervisor] INFO - solution opened

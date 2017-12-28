@@ -1,0 +1,154 @@
+2017-08-17 22:33:39 [wakanda.supervisor] INFO - solution closed
+2017-08-17 22:33:39 [wakanda] INFO - Opens the solution "Macintosh HD:Users:JCM_MacBookAIR:Wakanda-McBkAir:RouterOutlet-Mac:app.waSolution" for running
+2017-08-17 22:33:39 [wakanda.RouterOutlet-Mac] INFO - Users and groups directory opened
+2017-08-17 22:33:39 [wakanda.RouterOutlet-Mac.backend] INFO - Datastore opened
+2017-08-17 22:33:40 [wakanda.RouterOutlet-Mac.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-08-17 22:33:40 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project opened
+2017-08-17 22:33:40 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-08-17 22:33:40 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-08-17 22:33:40 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution opened
+2017-08-17 22:33:40 [wakanda] INFO - Starts "RouterOutlet-Mac" solution
+2017-08-17 22:33:41 [wakanda.RouterOutlet-Mac.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-08-17 22:33:41 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - HTTP Server started
+2017-08-17 22:33:41 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project started
+2017-08-17 22:33:41 [wakanda.RouterOutlet-Mac.backend] INFO - HTTP Server started
+2017-08-17 22:33:41 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project started
+2017-08-17 22:33:41 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-08-17 22:33:41 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-08-17 22:33:41 [wakanda.RouterOutlet-Mac.backend] INFO - Executes the bootstrap file(s)
+2017-08-17 22:33:41 [wakanda.RouterOutlet-Mac.backend] INFO - Bootstrap file(s) executed
+2017-08-17 22:33:41 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution started
+2017-08-17 22:33:41 [wakanda] INFO - "RouterOutlet-Mac" solution has been successfully opened for running (duration: 2062 ms)
+2017-08-17 22:33:41 [wakanda.supervisor] INFO - solution opened
+2017-08-18 08:59:44 [wakanda.supervisor] INFO - solution closed
+2017-08-18 08:59:44 [wakanda] INFO - Opens the solution "D:\Wakanda2.1\RouterOutlet-01\app.waSolution" for running
+2017-08-18 08:59:44 [wakanda.RouterOutlet-Mac] INFO - Users and groups directory opened
+2017-08-18 08:59:44 [wakanda.RouterOutlet-Mac.backend] INFO - Datastore opened
+2017-08-18 08:59:44 [wakanda.RouterOutlet-Mac.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-08-18 08:59:44 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project opened
+2017-08-18 08:59:44 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-08-18 08:59:44 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-08-18 08:59:44 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution opened
+2017-08-18 08:59:44 [wakanda] INFO - Starts "RouterOutlet-Mac" solution
+2017-08-18 08:59:44 [wakanda.RouterOutlet-Mac.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-08-18 08:59:44 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - HTTP Server started
+2017-08-18 08:59:44 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project started
+2017-08-18 08:59:45 [wakanda.RouterOutlet-Mac.backend] INFO - HTTP Server started
+2017-08-18 08:59:45 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project started
+2017-08-18 08:59:45 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-08-18 08:59:45 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-08-18 08:59:45 [wakanda.RouterOutlet-Mac.backend] INFO - Executes the bootstrap file(s)
+2017-08-18 08:59:45 [wakanda.RouterOutlet-Mac.backend] INFO - Bootstrap file(s) executed
+2017-08-18 08:59:45 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution started
+2017-08-18 08:59:45 [wakanda] INFO - "RouterOutlet-Mac" solution has been successfully opened for running (duration: 531 ms)
+2017-08-18 08:59:45 [wakanda.supervisor] INFO - solution opened
+2017-08-18 09:51:49 [wakanda.supervisor] INFO - solution closed
+2017-08-18 09:51:49 [wakanda] INFO - Opens the solution "D:\Wakanda2.1\RouterOutlet-01\app.waSolution" for running
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac] INFO - Users and groups directory opened
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.backend] INFO - Datastore opened
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project opened
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution opened
+2017-08-18 09:51:49 [wakanda] INFO - Starts "RouterOutlet-Mac" solution
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - HTTP Server started
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project started
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.backend] INFO - HTTP Server started
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project started
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.backend] INFO - Executes the bootstrap file(s)
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac.backend] INFO - Bootstrap file(s) executed
+2017-08-18 09:51:49 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution started
+2017-08-18 09:51:49 [wakanda] INFO - "RouterOutlet-Mac" solution has been successfully opened for running (duration: 580 ms)
+2017-08-18 09:51:49 [wakanda.supervisor] INFO - solution opened
+2017-08-18 13:34:16 [wakanda.supervisor] INFO - solution closed
+2017-08-18 13:34:16 [wakanda] INFO - Opens the solution "D:\Wakanda2.1\RouterOutlet-01\app.waSolution" for running
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac] INFO - Users and groups directory opened
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.backend] INFO - Datastore opened
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project opened
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution opened
+2017-08-18 13:34:16 [wakanda] INFO - Starts "RouterOutlet-Mac" solution
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - HTTP Server started
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project started
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.backend] INFO - HTTP Server started
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project started
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.backend] INFO - Executes the bootstrap file(s)
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac.backend] INFO - Bootstrap file(s) executed
+2017-08-18 13:34:16 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution started
+2017-08-18 13:34:16 [wakanda] INFO - "RouterOutlet-Mac" solution has been successfully opened for running (duration: 531 ms)
+2017-08-18 13:34:16 [wakanda.supervisor] INFO - solution opened
+2017-08-21 08:33:21 [wakanda.supervisor] INFO - solution closed
+2017-08-21 08:33:21 [wakanda] INFO - Opens the solution "D:\Wakanda2.1\RouterOutlet-v04\app.waSolution" for running
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac] INFO - Users and groups directory opened
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.backend] INFO - Datastore opened
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project opened
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution opened
+2017-08-21 08:33:22 [wakanda] INFO - Starts "RouterOutlet-Mac" solution
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - HTTP Server started
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project started
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.backend] INFO - HTTP Server started
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project started
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.backend] INFO - Executes the bootstrap file(s)
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac.backend] INFO - Bootstrap file(s) executed
+2017-08-21 08:33:22 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution started
+2017-08-21 08:33:22 [wakanda] INFO - "RouterOutlet-Mac" solution has been successfully opened for running (duration: 601 ms)
+2017-08-21 08:33:22 [wakanda.supervisor] INFO - solution opened
+2017-08-21 08:36:18 [wakanda.supervisor] INFO - solution closed
+2017-08-21 08:36:18 [wakanda] INFO - Opens the solution "D:\Wakanda2.1\RouterOutlet-v04\app.waSolution" for running
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac] INFO - Users and groups directory opened
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.backend] INFO - Datastore opened
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project opened
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution opened
+2017-08-21 08:36:19 [wakanda] INFO - Starts "RouterOutlet-Mac" solution
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - HTTP Server started
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project started
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.backend] INFO - HTTP Server started
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project started
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.backend] INFO - Executes the bootstrap file(s)
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac.backend] INFO - Bootstrap file(s) executed
+2017-08-21 08:36:19 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution started
+2017-08-21 08:36:19 [wakanda] INFO - "RouterOutlet-Mac" solution has been successfully opened for running (duration: 1538 ms)
+2017-08-21 08:36:19 [wakanda.supervisor] INFO - solution opened
+2017-08-21 08:36:24 [wakanda.supervisor] INFO - solution closed
+2017-08-21 08:36:24 [wakanda] INFO - Opens the solution "D:\Wakanda2.1\RouterOutlet-v04\app.waSolution" for running
+2017-08-21 08:36:24 [wakanda.RouterOutlet-Mac] INFO - Users and groups directory opened
+2017-08-21 08:36:24 [wakanda.RouterOutlet-Mac.backend] INFO - Datastore opened
+2017-08-21 08:36:24 [wakanda.RouterOutlet-Mac.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-08-21 08:36:24 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project opened
+2017-08-21 08:36:24 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-08-21 08:36:24 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-08-21 08:36:24 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution opened
+2017-08-21 08:36:24 [wakanda] INFO - Starts "RouterOutlet-Mac" solution
+2017-08-21 08:36:25 [wakanda.RouterOutlet-Mac.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-08-21 08:36:25 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - HTTP Server started
+2017-08-21 08:36:25 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - "ServerAdmin" project started
+2017-08-21 08:36:25 [wakanda.RouterOutlet-Mac.backend] INFO - HTTP Server started
+2017-08-21 08:36:25 [wakanda.RouterOutlet-Mac.backend] INFO - "backend" project started
+2017-08-21 08:36:25 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-08-21 08:36:25 [wakanda.RouterOutlet-Mac.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-08-21 08:36:25 [wakanda.RouterOutlet-Mac.backend] INFO - Executes the bootstrap file(s)
+2017-08-21 08:36:25 [wakanda.RouterOutlet-Mac.backend] INFO - Bootstrap file(s) executed
+2017-08-21 08:36:25 [wakanda.RouterOutlet-Mac] INFO - "RouterOutlet-Mac" solution started
+2017-08-21 08:36:25 [wakanda] INFO - "RouterOutlet-Mac" solution has been successfully opened for running (duration: 448 ms)
+2017-08-21 08:36:25 [wakanda.supervisor] INFO - solution opened

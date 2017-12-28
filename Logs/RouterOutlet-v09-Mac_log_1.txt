@@ -1,0 +1,21 @@
+2017-08-22 22:48:01 [wakanda.RouterOutlet-v09-Mac] INFO - Users and groups directory opened
+2017-08-22 22:48:01 [IndexManager] INFO - Index  on Todo.ID built in 0 ms
+2017-08-22 22:48:01 [wakanda.RouterOutlet-v09-Mac.backend] INFO - Datastore opened
+2017-08-22 22:48:01 [wakanda.RouterOutlet-v09-Mac.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-08-22 22:48:01 [wakanda.RouterOutlet-v09-Mac.backend] INFO - "backend" project opened
+2017-08-22 22:48:01 [wakanda.RouterOutlet-v09-Mac.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-08-22 22:48:01 [wakanda.RouterOutlet-v09-Mac.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-08-22 22:48:01 [wakanda.RouterOutlet-v09-Mac] INFO - "RouterOutlet-v09-Mac" solution opened
+2017-08-22 22:48:01 [wakanda] INFO - Starts "RouterOutlet-v09-Mac" solution
+2017-08-22 22:48:03 [wakanda.RouterOutlet-v09-Mac.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-08-22 22:48:03 [wakanda.RouterOutlet-v09-Mac.ServerAdmin] INFO - HTTP Server started
+2017-08-22 22:48:03 [wakanda.RouterOutlet-v09-Mac.ServerAdmin] INFO - "ServerAdmin" project started
+2017-08-22 22:48:04 [wakanda.RouterOutlet-v09-Mac.backend] INFO - HTTP Server started
+2017-08-22 22:48:04 [wakanda.RouterOutlet-v09-Mac.backend] INFO - "backend" project started
+2017-08-22 22:48:04 [wakanda.RouterOutlet-v09-Mac.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-08-22 22:48:04 [wakanda.RouterOutlet-v09-Mac.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-08-22 22:48:04 [wakanda.RouterOutlet-v09-Mac.backend] INFO - Executes the bootstrap file(s)
+2017-08-22 22:48:04 [wakanda.RouterOutlet-v09-Mac.backend] INFO - Bootstrap file(s) executed
+2017-08-22 22:48:04 [wakanda.RouterOutlet-v09-Mac] INFO - "RouterOutlet-v09-Mac" solution started
+2017-08-22 22:48:04 [wakanda] INFO - "RouterOutlet-v09-Mac" solution has been successfully opened for running (duration: 3399 ms)
+2017-08-22 22:48:04 [wakanda.supervisor] INFO - solution opened

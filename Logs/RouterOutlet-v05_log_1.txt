@@ -1,0 +1,20 @@
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05] INFO - Users and groups directory opened
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.backend] INFO - Datastore opened
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.backend] INFO - "backend" project opened
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05] INFO - "RouterOutlet-v05" solution opened
+2017-08-21 09:16:57 [wakanda] INFO - Starts "RouterOutlet-v05" solution
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.ServerAdmin] INFO - HTTP Server started
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.ServerAdmin] INFO - "ServerAdmin" project started
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.backend] INFO - HTTP Server started
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.backend] INFO - "backend" project started
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.backend] INFO - Executes the bootstrap file(s)
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05.backend] INFO - Bootstrap file(s) executed
+2017-08-21 09:16:57 [wakanda.RouterOutlet-v05] INFO - "RouterOutlet-v05" solution started
+2017-08-21 09:16:57 [wakanda] INFO - "RouterOutlet-v05" solution has been successfully opened for running (duration: 574 ms)
+2017-08-21 09:16:57 [wakanda.supervisor] INFO - solution opened

@@ -1,0 +1,130 @@
+2017-12-23 18:24:34 [wakanda.RouterOutlet-v15] INFO - Users and groups directory opened
+2017-12-23 18:24:35 [IndexManager] INFO - Index  on DataClass1.index built in 0 ms
+2017-12-23 18:24:35 [wakanda.RouterOutlet-v15.backend] INFO - Datastore opened
+2017-12-23 18:24:35 [wakanda.RouterOutlet-v15.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-12-23 18:24:35 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project opened
+2017-12-23 18:24:35 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-12-23 18:24:35 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-12-23 18:24:35 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution opened
+2017-12-23 18:24:35 [wakanda] INFO - Starts "RouterOutlet-v15" solution
+2017-12-23 18:24:37 [wakanda.RouterOutlet-v15.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-12-23 18:24:38 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - HTTP Server started
+2017-12-23 18:24:38 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project started
+2017-12-23 18:24:39 [wakanda.RouterOutlet-v15.backend] INFO - HTTP Server started
+2017-12-23 18:24:39 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project started
+2017-12-23 18:24:39 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-12-23 18:24:40 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-12-23 18:24:40 [wakanda.RouterOutlet-v15.backend] INFO - Executes the bootstrap file(s)
+2017-12-23 18:24:40 [wakanda.RouterOutlet-v15.backend] INFO - Bootstrap file(s) executed
+2017-12-23 18:24:40 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution started
+2017-12-23 18:24:40 [wakanda] INFO - "RouterOutlet-v15" solution has been successfully opened for running (duration: 5850 ms)
+2017-12-23 18:24:40 [wakanda.supervisor] INFO - solution opened
+2017-12-24 00:07:47 [wakanda] INFO - Stops "RouterOutlet-v15" solution
+2017-12-24 00:07:50 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project stopped
+2017-12-24 00:07:53 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-12-24 00:07:53 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution stopped
+2017-12-24 00:07:53 [wakanda] INFO - Closes "RouterOutlet-v15" solution
+2017-12-24 00:07:53 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project closed
+2017-12-24 00:07:53 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-12-24 00:07:54 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution closed
+2017-12-24 15:11:58 [wakanda.RouterOutlet-v15] INFO - Users and groups directory opened
+2017-12-24 15:12:00 [wakanda.RouterOutlet-v15.backend] INFO - Datastore opened
+2017-12-24 15:12:00 [IndexManager] INFO - Index  on DataClass1.index has been deleted 
+2017-12-24 15:12:00 [wakanda.RouterOutlet-v15.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-12-24 15:12:00 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project opened
+2017-12-24 15:12:00 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-12-24 15:12:00 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-12-24 15:12:00 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution opened
+2017-12-24 15:12:00 [wakanda] INFO - Starts "RouterOutlet-v15" solution
+2017-12-24 15:12:02 [wakanda.RouterOutlet-v15.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-12-24 15:12:03 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - HTTP Server started
+2017-12-24 15:12:03 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project started
+2017-12-24 15:12:04 [wakanda.RouterOutlet-v15.backend] INFO - HTTP Server started
+2017-12-24 15:12:04 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project started
+2017-12-24 15:12:04 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-12-24 15:12:04 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-12-24 15:12:04 [wakanda.RouterOutlet-v15.backend] INFO - Executes the bootstrap file(s)
+2017-12-24 15:12:04 [wakanda.RouterOutlet-v15.backend] INFO - Bootstrap file(s) executed
+2017-12-24 15:12:04 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution started
+2017-12-24 15:12:04 [wakanda] INFO - "RouterOutlet-v15" solution has been successfully opened for running (duration: 5843 ms)
+2017-12-24 15:12:04 [wakanda.supervisor] INFO - solution opened
+2017-12-24 15:42:05 [wakanda] INFO - Stops "RouterOutlet-v15" solution
+2017-12-24 15:42:07 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project stopped
+2017-12-24 15:42:10 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-12-24 15:42:10 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution stopped
+2017-12-24 15:42:10 [wakanda] INFO - Closes "RouterOutlet-v15" solution
+2017-12-24 15:42:11 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project closed
+2017-12-24 15:42:11 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-12-24 15:43:11 [wakanda.RouterOutlet-v15] INFO - Users and groups directory opened
+2017-12-24 15:43:11 [IndexManager] INFO - Index  on DataClass1.index built in 0 ms
+2017-12-24 15:43:11 [wakanda.RouterOutlet-v15.backend] INFO - Datastore opened
+2017-12-24 15:43:11 [wakanda.RouterOutlet-v15.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-12-24 15:43:11 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project opened
+2017-12-24 15:43:11 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-12-24 15:43:11 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-12-24 15:43:11 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution opened
+2017-12-24 15:43:11 [wakanda] INFO - Starts "RouterOutlet-v15" solution
+2017-12-24 15:43:14 [wakanda.RouterOutlet-v15.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-12-24 15:43:15 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - HTTP Server started
+2017-12-24 15:43:15 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project started
+2017-12-24 15:43:16 [wakanda.RouterOutlet-v15.backend] INFO - HTTP Server started
+2017-12-24 15:43:16 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project started
+2017-12-24 15:43:16 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-12-24 15:43:16 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-12-24 15:43:16 [wakanda.RouterOutlet-v15.backend] INFO - Executes the bootstrap file(s)
+2017-12-24 15:43:16 [wakanda.RouterOutlet-v15.backend] INFO - Bootstrap file(s) executed
+2017-12-24 15:43:16 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution started
+2017-12-24 15:43:16 [wakanda] INFO - "RouterOutlet-v15" solution has been successfully opened for running (duration: 5943 ms)
+2017-12-24 15:43:16 [wakanda.supervisor] INFO - solution opened
+2017-12-24 15:53:35 [wakanda.dbmg] ERROR - [1543] Cannot load entity# 60 in the "Todo" datastore class, task #25347, task name is HTTP connection handler
+2017-12-24 15:53:36 [wakanda.dbmg] ERROR - [1543] Cannot load entity# 60 in the "Todo" datastore class, task #25347, task name is HTTP connection handler
+2017-12-24 15:54:15 [wakanda] INFO - Stops "RouterOutlet-v15" solution
+2017-12-24 15:54:17 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project stopped
+2017-12-24 15:54:20 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-12-24 15:54:20 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution stopped
+2017-12-24 15:54:20 [wakanda] INFO - Closes "RouterOutlet-v15" solution
+2017-12-24 15:54:20 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project closed
+2017-12-24 15:54:20 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-12-24 15:54:21 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution closed
+2017-12-26 18:08:05 [wakanda.RouterOutlet-v15] INFO - Users and groups directory opened
+2017-12-26 18:08:07 [IndexManager] INFO - Index  on DataClass1.index has been deleted 
+2017-12-26 18:08:07 [wakanda.RouterOutlet-v15.backend] INFO - Datastore opened
+2017-12-26 18:08:07 [wakanda.RouterOutlet-v15.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-12-26 18:08:07 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project opened
+2017-12-26 18:08:07 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-12-26 18:08:07 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-12-26 18:08:07 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution opened
+2017-12-26 18:08:07 [wakanda] INFO - Starts "RouterOutlet-v15" solution
+2017-12-26 18:08:14 [wakanda.RouterOutlet-v15.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-12-26 18:08:16 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - HTTP Server started
+2017-12-26 18:08:16 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project started
+2017-12-26 18:08:19 [wakanda.RouterOutlet-v15.backend] INFO - HTTP Server started
+2017-12-26 18:08:19 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project started
+2017-12-26 18:08:19 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-12-26 18:08:19 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-12-26 18:08:19 [wakanda.RouterOutlet-v15.backend] INFO - Executes the bootstrap file(s)
+2017-12-26 18:08:19 [wakanda.RouterOutlet-v15.backend] INFO - Bootstrap file(s) executed
+2017-12-26 18:08:19 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution started
+2017-12-26 18:08:19 [wakanda] INFO - "RouterOutlet-v15" solution has been successfully opened for running (duration: 13939 ms)
+2017-12-26 18:08:19 [wakanda.supervisor] INFO - solution opened
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15] INFO - Users and groups directory opened
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.backend] INFO - Datastore opened
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project opened
+2017-12-28 15:02:17 [IndexManager] INFO - Index  on DataClass1.index built in 0 ms
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution opened
+2017-12-28 15:02:17 [wakanda] INFO - Starts "RouterOutlet-v15" solution
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - HTTP Server started
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - "ServerAdmin" project started
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.backend] INFO - HTTP Server started
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.backend] INFO - "backend" project started
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.backend] INFO - Executes the bootstrap file(s)
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15.backend] INFO - Bootstrap file(s) executed
+2017-12-28 15:02:17 [wakanda.RouterOutlet-v15] INFO - "RouterOutlet-v15" solution started
+2017-12-28 15:02:17 [wakanda] INFO - "RouterOutlet-v15" solution has been successfully opened for running (duration: 737 ms)
+2017-12-28 15:02:17 [wakanda.supervisor] INFO - solution opened

@@ -1,0 +1,155 @@
+2017-09-01 21:16:55 [wakanda.RouterOutlet-v13] INFO - Users and groups directory opened
+2017-09-01 21:16:55 [IndexManager] INFO - Index  on DataClass1.index built in 0 ms
+2017-09-01 21:16:55 [wakanda.RouterOutlet-v13.backend] INFO - Datastore opened
+2017-09-01 21:16:55 [wakanda.RouterOutlet-v13.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-01 21:16:55 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project opened
+2017-09-01 21:16:55 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-01 21:16:55 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-01 21:16:55 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution opened
+2017-09-01 21:16:55 [wakanda] INFO - Starts "RouterOutlet-v13" solution
+2017-09-01 21:16:57 [wakanda.RouterOutlet-v13.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-01 21:16:58 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - HTTP Server started
+2017-09-01 21:16:58 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-01 21:16:59 [wakanda.RouterOutlet-v13.backend] INFO - HTTP Server started
+2017-09-01 21:16:59 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project started
+2017-09-01 21:16:59 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-01 21:16:59 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-01 21:16:59 [wakanda.RouterOutlet-v13.backend] INFO - Executes the bootstrap file(s)
+2017-09-01 21:16:59 [wakanda.RouterOutlet-v13.backend] INFO - Bootstrap file(s) executed
+2017-09-01 21:16:59 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution started
+2017-09-01 21:16:59 [wakanda] INFO - "RouterOutlet-v13" solution has been successfully opened for running (duration: 4370 ms)
+2017-09-01 21:16:59 [wakanda.supervisor] INFO - solution opened
+2017-09-01 21:38:41 [wakanda.RouterOutlet-v13.ServerAdmin] INFO -  created 
+2017-09-01 21:38:42 [wakanda] INFO - Stops "RouterOutlet-v13" solution
+2017-09-01 21:38:43 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project stopped
+2017-09-01 21:38:45 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-01 21:38:45 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution stopped
+2017-09-01 21:38:45 [wakanda] INFO - Closes "RouterOutlet-v13" solution
+2017-09-01 21:38:46 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project closed
+2017-09-01 21:38:46 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-01 21:38:46 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution closed
+2017-09-01 22:01:58 [wakanda.RouterOutlet-v13] INFO - Users and groups directory opened
+2017-09-01 22:02:00 [IndexManager] INFO - Index  on DataClass1.index has been deleted 
+2017-09-01 22:02:00 [wakanda.RouterOutlet-v13.backend] INFO - Datastore opened
+2017-09-01 22:02:00 [wakanda.RouterOutlet-v13.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-01 22:02:00 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project opened
+2017-09-01 22:02:00 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-01 22:02:00 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-01 22:02:00 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution opened
+2017-09-01 22:02:00 [wakanda] INFO - Starts "RouterOutlet-v13" solution
+2017-09-01 22:02:01 [wakanda.RouterOutlet-v13.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-01 22:02:01 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - HTTP Server started
+2017-09-01 22:02:01 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-01 22:02:02 [wakanda.RouterOutlet-v13.backend] INFO - HTTP Server started
+2017-09-01 22:02:02 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project started
+2017-09-01 22:02:02 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-01 22:02:02 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-01 22:02:02 [wakanda.RouterOutlet-v13.backend] INFO - Executes the bootstrap file(s)
+2017-09-01 22:02:02 [wakanda.RouterOutlet-v13.backend] INFO - Bootstrap file(s) executed
+2017-09-01 22:02:02 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution started
+2017-09-01 22:02:02 [wakanda] INFO - "RouterOutlet-v13" solution has been successfully opened for running (duration: 4976 ms)
+2017-09-01 22:02:02 [wakanda.supervisor] INFO - solution opened
+2017-09-02 20:26:48 [wakanda.RouterOutlet-v13.ServerAdmin] INFO -  created 
+2017-09-02 20:26:48 [wakanda] INFO - Stops "RouterOutlet-v13" solution
+2017-09-02 20:26:48 [wakanda.RouterOutlet-v13.backend.xbox] ERROR - [600] File not found (fnfErr)., task #775
+2017-09-02 20:26:48 [wakanda.RouterOutlet-v13.backend.xbox] ERROR - [203] , task #775
+2017-09-02 20:26:48 [wakanda.RouterOutlet-v13.backend.xbox] ERROR - [600] File not found (fnfErr)., task #775
+2017-09-02 20:26:50 [wakanda.RouterOutlet-v13.backend.xbox] ERROR - [600] File not found (fnfErr)., task #775
+2017-09-02 20:26:50 [wakanda.RouterOutlet-v13.backend.xbox] ERROR - [203] , task #775
+2017-09-02 20:26:50 [wakanda.RouterOutlet-v13.backend.xbox] ERROR - [600] File not found (fnfErr)., task #775
+2017-09-02 20:26:52 [wakanda.RouterOutlet-v13.backend] WARN - "backend" project stopped with errors
+2017-09-02 20:26:56 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-02 20:26:56 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution stopped
+2017-09-02 20:26:56 [wakanda] INFO - Closes "RouterOutlet-v13" solution
+2017-09-02 20:26:57 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project closed
+2017-09-02 20:26:57 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-02 20:26:57 [wakanda.RouterOutlet-v13.xbox] ERROR - [650] Directory not found (dirNFErr)., task #775
+2017-09-02 20:26:57 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution closed
+2017-09-02 21:09:13 [wakanda.RouterOutlet-v13] INFO - Users and groups directory opened
+2017-09-02 21:09:13 [IndexManager] INFO - Index  on DataClass1.index built in 0 ms
+2017-09-02 21:09:13 [wakanda.RouterOutlet-v13.backend] INFO - Datastore opened
+2017-09-02 21:09:13 [wakanda.RouterOutlet-v13.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-02 21:09:13 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project opened
+2017-09-02 21:09:14 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-02 21:09:14 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-02 21:09:14 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution opened
+2017-09-02 21:09:14 [wakanda] INFO - Starts "RouterOutlet-v13" solution
+2017-09-02 21:09:20 [wakanda.RouterOutlet-v13.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-02 21:09:22 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - HTTP Server started
+2017-09-02 21:09:22 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-02 21:09:25 [wakanda.RouterOutlet-v13.backend] INFO - HTTP Server started
+2017-09-02 21:09:25 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project started
+2017-09-02 21:09:25 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-02 21:09:26 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-02 21:09:26 [wakanda.RouterOutlet-v13.backend] INFO - Executes the bootstrap file(s)
+2017-09-02 21:09:26 [wakanda.RouterOutlet-v13.backend] INFO - Bootstrap file(s) executed
+2017-09-02 21:09:26 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution started
+2017-09-02 21:09:26 [wakanda] INFO - "RouterOutlet-v13" solution has been successfully opened for running (duration: 14362 ms)
+2017-09-02 21:09:26 [wakanda.supervisor] INFO - solution opened
+2017-09-02 21:40:23 [wakanda] INFO - Stops "RouterOutlet-v13" solution
+2017-09-02 21:40:25 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project stopped
+2017-09-02 21:40:27 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-02 21:40:27 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution stopped
+2017-09-02 21:40:27 [wakanda] INFO - Closes "RouterOutlet-v13" solution
+2017-09-02 21:40:28 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project closed
+2017-09-02 21:40:28 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-02 21:40:28 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution closed
+2017-09-14 21:24:54 [wakanda] INFO - Opens the solution "Macintosh:Users:JCM:Wakanda-iMac:solutions:RouterOutlet-v13:app.waSolution" for running
+2017-09-14 21:24:54 [wakanda.RouterOutlet-v13] INFO - Users and groups directory opened
+2017-09-14 21:24:55 [IndexManager] INFO - Index  on DataClass1.index has been deleted 
+2017-09-14 21:24:55 [wakanda.RouterOutlet-v13.backend] INFO - Datastore opened
+2017-09-14 21:24:55 [wakanda.RouterOutlet-v13.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-14 21:24:55 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project opened
+2017-09-14 21:24:55 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-14 21:24:55 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-14 21:24:55 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution opened
+2017-09-14 21:24:55 [wakanda] INFO - Starts "RouterOutlet-v13" solution
+2017-09-14 21:24:55 [wakanda.RouterOutlet-v13.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-14 21:24:55 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - HTTP Server started
+2017-09-14 21:24:55 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-14 21:24:56 [wakanda.RouterOutlet-v13.backend] INFO - HTTP Server started
+2017-09-14 21:24:56 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project started
+2017-09-14 21:24:56 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-14 21:24:56 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-14 21:24:56 [wakanda.RouterOutlet-v13.backend] INFO - Executes the bootstrap file(s)
+2017-09-14 21:24:56 [wakanda.RouterOutlet-v13.backend] INFO - Bootstrap file(s) executed
+2017-09-14 21:24:56 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution started
+2017-09-14 21:24:56 [wakanda] INFO - "RouterOutlet-v13" solution has been successfully opened for running (duration: 2514 ms)
+2017-09-14 21:24:56 [wakanda.supervisor] INFO - solution opened
+2017-09-14 21:26:04 [wakanda] INFO - Stops "RouterOutlet-v13" solution
+2017-09-14 21:26:05 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project stopped
+2017-09-14 21:26:06 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-14 21:26:06 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution stopped
+2017-09-14 21:26:06 [wakanda] INFO - Closes "RouterOutlet-v13" solution
+2017-09-14 21:26:07 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project closed
+2017-09-14 21:26:07 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-14 21:26:07 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution closed
+2017-09-14 21:26:29 [wakanda.RouterOutlet-v13] INFO - Users and groups directory opened
+2017-09-14 21:26:30 [IndexManager] INFO - Index  on DataClass1.index built in 0 ms
+2017-09-14 21:26:30 [wakanda.RouterOutlet-v13.backend] INFO - Datastore opened
+2017-09-14 21:26:30 [wakanda.RouterOutlet-v13.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-14 21:26:30 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project opened
+2017-09-14 21:26:30 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-14 21:26:30 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-14 21:26:30 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution opened
+2017-09-14 21:26:30 [wakanda] INFO - Starts "RouterOutlet-v13" solution
+2017-09-14 21:26:31 [wakanda.RouterOutlet-v13.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-14 21:26:32 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - HTTP Server started
+2017-09-14 21:26:32 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-14 21:26:33 [wakanda.RouterOutlet-v13.backend] INFO - HTTP Server started
+2017-09-14 21:26:33 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project started
+2017-09-14 21:26:33 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-14 21:26:34 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-14 21:26:34 [wakanda.RouterOutlet-v13.backend] INFO - Executes the bootstrap file(s)
+2017-09-14 21:26:34 [wakanda.RouterOutlet-v13.backend] INFO - Bootstrap file(s) executed
+2017-09-14 21:26:34 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution started
+2017-09-14 21:26:34 [wakanda] INFO - "RouterOutlet-v13" solution has been successfully opened for running (duration: 5721 ms)
+2017-09-14 21:26:34 [wakanda.supervisor] INFO - solution opened
+2017-09-14 21:56:52 [wakanda] INFO - Stops "RouterOutlet-v13" solution
+2017-09-14 21:56:53 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project stopped
+2017-09-14 21:56:55 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-14 21:56:55 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution stopped
+2017-09-14 21:56:55 [wakanda] INFO - Closes "RouterOutlet-v13" solution
+2017-09-14 21:56:55 [wakanda.RouterOutlet-v13.backend] INFO - "backend" project closed
+2017-09-14 21:56:55 [wakanda.RouterOutlet-v13.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-14 21:56:55 [wakanda.RouterOutlet-v13] INFO - "RouterOutlet-v13" solution closed
