@@ -1,0 +1,25 @@
+2018-03-16 14:46:42 [wakanda.supervisor] INFO - solution closed
+2018-03-16 14:46:42 [wakanda] INFO - Opens the solution "C:\Users\jcl.maquinay\Wakanda-Bureau\Github\RouterOutlet-A5M5\app.waSolution" for running
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5] INFO - Users and groups directory opened
+2018-03-16 14:46:43 [IndexManager] INFO - Index  on AlligatorTodo.index built in 0 ms
+2018-03-16 14:46:43 [IndexManager] INFO - Index  on Todo.ID built in 0 ms
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.backend] INFO - Datastore opened
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.backend] INFO - "backend" project opened
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.ServerAdmin] INFO - "ServerAdmin" project opened
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5] INFO - "RouterOutlet-A5M5" solution opened
+2018-03-16 14:46:43 [wakanda] INFO - Starts "RouterOutlet-A5M5" solution
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.ServerAdmin] INFO - HTTP Server started
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.ServerAdmin] INFO - "ServerAdmin" project started
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.backend] INFO - HTTP Server started
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.backend] INFO - "backend" project started
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.ServerAdmin] INFO - Executes the bootstrap file(s)
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.ServerAdmin] INFO - Bootstrap file(s) executed
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.backend] INFO - Executes the bootstrap file(s)
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5.backend] INFO - Bootstrap file(s) executed
+2018-03-16 14:46:43 [wakanda.RouterOutlet-A5M5] INFO - "RouterOutlet-A5M5" solution started
+2018-03-16 14:46:43 [wakanda] INFO - "RouterOutlet-A5M5" solution has been successfully opened for running (duration: 603 ms)
+2018-03-16 14:46:43 [wakanda.supervisor] INFO - solution opened
+2018-03-16 15:12:24 [wakanda.dbmg] ERROR - [1543] Cannot load entity# 1 in the "Todo" datastore class, task #7112, task name is HTTP connection handler
