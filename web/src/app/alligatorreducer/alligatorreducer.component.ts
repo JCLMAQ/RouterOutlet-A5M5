@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Observable } from 'rxjs/Observable';
+import { Observable } from 'rxjs';
 
 import { Store } from '@ngrx/store';
 import { ADD_TODO, DELETE_TODO, UPDATE_TODO, TOGGLE_DONE } from './reducers/todo.reducer';
