@@ -1,0 +1,22 @@
+2018-07-02 14:23:59 [wakanda.RouterOutlet-A6M6] INFO - Users and groups directory opened
+2018-07-02 14:23:59 [IndexManager] INFO - Index  on AlligatorTodo.index built in 0 ms
+2018-07-02 14:23:59 [IndexManager] INFO - Index  on Todo.ID built in 0 ms
+2018-07-02 14:23:59 [wakanda.RouterOutlet-A6M6.backend] INFO - Datastore opened
+2018-07-02 14:23:59 [wakanda.RouterOutlet-A6M6.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2018-07-02 14:23:59 [wakanda.RouterOutlet-A6M6.backend] INFO - "backend" project opened
+2018-07-02 14:23:59 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2018-07-02 14:23:59 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - "ServerAdmin" project opened
+2018-07-02 14:23:59 [wakanda.RouterOutlet-A6M6] INFO - "RouterOutlet-A6M6" solution opened
+2018-07-02 14:23:59 [wakanda] INFO - Starts "RouterOutlet-A6M6" solution
+2018-07-02 14:23:59 [wakanda.RouterOutlet-A6M6.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2018-07-02 14:23:59 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - HTTP Server started
+2018-07-02 14:23:59 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - "ServerAdmin" project started
+2018-07-02 14:24:00 [wakanda.RouterOutlet-A6M6.backend] INFO - HTTP Server started
+2018-07-02 14:24:00 [wakanda.RouterOutlet-A6M6.backend] INFO - "backend" project started
+2018-07-02 14:24:00 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - Executes the bootstrap file(s)
+2018-07-02 14:24:00 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - Bootstrap file(s) executed
+2018-07-02 14:24:00 [wakanda.RouterOutlet-A6M6.backend] INFO - Executes the bootstrap file(s)
+2018-07-02 14:24:00 [wakanda.RouterOutlet-A6M6.backend] INFO - Bootstrap file(s) executed
+2018-07-02 14:24:00 [wakanda.RouterOutlet-A6M6] INFO - "RouterOutlet-A6M6" solution started
+2018-07-02 14:24:00 [wakanda] INFO - "RouterOutlet-A6M6" solution has been successfully opened for running (duration: 974 ms)
+2018-07-02 14:24:00 [wakanda.supervisor] INFO - solution opened
