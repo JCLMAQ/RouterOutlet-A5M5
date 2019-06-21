@@ -20,3 +20,33 @@
 2018-07-02 14:24:00 [wakanda.RouterOutlet-A6M6] INFO - "RouterOutlet-A6M6" solution started
 2018-07-02 14:24:00 [wakanda] INFO - "RouterOutlet-A6M6" solution has been successfully opened for running (duration: 974 ms)
 2018-07-02 14:24:00 [wakanda.supervisor] INFO - solution opened
+2019-06-21 21:49:51 [wakanda.RouterOutlet-A6M6] INFO - Users and groups directory opened
+2019-06-21 21:49:52 [IndexManager] INFO - Index  on AlligatorTodo.index built in 0 ms
+2019-06-21 21:49:52 [IndexManager] INFO - Index  on Todo.ID built in 0 ms
+2019-06-21 21:49:52 [wakanda.RouterOutlet-A6M6.backend] INFO - Datastore opened
+2019-06-21 21:49:52 [wakanda.RouterOutlet-A6M6.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2019-06-21 21:49:52 [wakanda.RouterOutlet-A6M6.backend] INFO - "backend" project opened
+2019-06-21 21:49:53 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2019-06-21 21:49:53 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - "ServerAdmin" project opened
+2019-06-21 21:49:53 [wakanda.RouterOutlet-A6M6] INFO - "RouterOutlet-A6M6" solution opened
+2019-06-21 21:49:53 [wakanda] INFO - Starts "RouterOutlet-A6M6" solution
+2019-06-21 21:49:54 [wakanda.RouterOutlet-A6M6.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2019-06-21 21:49:54 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - HTTP Server started
+2019-06-21 21:49:54 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - "ServerAdmin" project started
+2019-06-21 21:49:55 [wakanda.RouterOutlet-A6M6.backend] INFO - HTTP Server started
+2019-06-21 21:49:55 [wakanda.RouterOutlet-A6M6.backend] INFO - "backend" project started
+2019-06-21 21:49:55 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - Executes the bootstrap file(s)
+2019-06-21 21:49:55 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - Bootstrap file(s) executed
+2019-06-21 21:49:55 [wakanda.RouterOutlet-A6M6.backend] INFO - Executes the bootstrap file(s)
+2019-06-21 21:49:55 [wakanda.RouterOutlet-A6M6.backend] INFO - Bootstrap file(s) executed
+2019-06-21 21:49:55 [wakanda.RouterOutlet-A6M6] INFO - "RouterOutlet-A6M6" solution started
+2019-06-21 21:49:55 [wakanda] INFO - "RouterOutlet-A6M6" solution has been successfully opened for running (duration: 4165 ms)
+2019-06-21 21:49:55 [wakanda.supervisor] INFO - solution opened
+2019-06-21 21:58:57 [wakanda] INFO - Stops "RouterOutlet-A6M6" solution
+2019-06-21 21:58:58 [wakanda.RouterOutlet-A6M6.backend] INFO - "backend" project stopped
+2019-06-21 21:59:00 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - "ServerAdmin" project stopped
+2019-06-21 21:59:00 [wakanda.RouterOutlet-A6M6] INFO - "RouterOutlet-A6M6" solution stopped
+2019-06-21 21:59:00 [wakanda] INFO - Closes "RouterOutlet-A6M6" solution
+2019-06-21 21:59:00 [wakanda.RouterOutlet-A6M6.backend] INFO - "backend" project closed
+2019-06-21 21:59:00 [wakanda.RouterOutlet-A6M6.ServerAdmin] INFO - "ServerAdmin" project closed
+2019-06-21 21:59:01 [wakanda.RouterOutlet-A6M6] INFO - "RouterOutlet-A6M6" solution closed
