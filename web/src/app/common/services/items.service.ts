@@ -1,4 +1,4 @@
-import {Http, Headers} from '@angular/http';
+import {HttpClientModule} from '@angular/common/http';
 import {Injectable} from '@angular/core';
 import {Store} from '@ngrx/store';
 import {Observable} from "rxjs";
@@ -14,7 +14,7 @@ const HEADER = { headers: new Headers({ 'Content-Type': 'application/json' }) };
 export class ItemsService {
   items: Observable<Array<Item>>;
 
-  constructor(private http: Http, private store: Store<AppStore>) {
+  constructor(private http: HttpClientModule, private store: Store<AppStore>) {
     this.items = store.select('items');
   }
 

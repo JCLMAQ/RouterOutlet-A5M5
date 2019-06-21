@@ -1,5 +1,4 @@
 import { Injectable, EventEmitter } from '@angular/core';
-import { Http, Headers } from '@angular/http';
 import { Item } from './';
 
 @Injectable()
@@ -21,7 +20,7 @@ export class ItemsService {
   }
 
   getItemByID(id) {
-  	console.log('Item '+ id + ' selected');
+    console.log('Item ' + id + ' selected');
     return this.items.find(item => item.id === Number(id));
   }
 }
