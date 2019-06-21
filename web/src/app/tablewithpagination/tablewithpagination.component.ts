@@ -1,6 +1,6 @@
 import {Component, OnInit, ViewChild} from '@angular/core';
 import {DataSource} from '@angular/cdk/collections';
-import {MatPaginator} from '@angular/material';
+import { MatPaginator } from '@angular/material/paginator';
  import {BehaviorSubject, Observable} from 'rxjs';
 
 
